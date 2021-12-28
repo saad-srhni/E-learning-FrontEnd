@@ -1,0 +1,37 @@
+.info{
+    margin: 5px;
+    font-size: medium;
+    font-weight: 500;
+}
+.heading{
+    font-size:xx-large;
+    font-weight: bold;
+}
+
+.profil{
+    width:100px;
+    height: 100px;
+}
+.profil-circle{
+    width: fit-content;
+    margin: auto;
+    position: relative;
+    background-color: lightgray;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.profil-circle:hover{
+background-color: rgb(194, 191, 191);
+}
+.add-profil{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: white;
+    padding: 5px;
+    border-radius: 100%;
+}
+.camera{
+    width:30px;
+    height: 30px;
+}

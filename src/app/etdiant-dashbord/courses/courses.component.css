@@ -1,0 +1,17 @@
+.bar{
+    margin: 5px 0;
+}
+
+.header{
+    height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.title{
+    vertical-align: sub;
+    line-height:100px;
+    font-family: ui-monospace;
+    font-weight: bolder;
+}
